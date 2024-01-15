@@ -1,0 +1,6 @@
+﻿cities,Lod,Jerusalem,Shilo,Aco,Eli
+Lod,0,10,25,50,30
+Jerusalem,10,0,7,47,10
+Shilo,25,7,0,43,3
+Aco,50,47,43,0,40
+Eli,30,10,3,40,
